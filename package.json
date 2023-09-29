@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/fwdcp/node-vpk.git"
+        "url": "git+https://github.com/Lowly1337/node-vpk"
     },
     "keywords": [
         "vpk",
@@ -17,9 +17,9 @@
     "author": "Forward Command Post (http://fwdcp.net)",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/fwdcp/node-vpk/issues"
+        "url": "https://github.com/Lowly1337/node-vpk/issues"
     },
-    "homepage": "https://github.com/fwdcp/node-vpk#readme",
+    "homepage": "https://github.com/Lowly1337/node-vpk#readme",
     "dependencies": {
         "crc": "^4.3.2",
         "jbinary": "^2.1.5"
